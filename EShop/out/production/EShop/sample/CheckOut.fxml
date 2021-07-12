@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="309.0" prefWidth="400.0" style="-fx-background-color: #7B17C3;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CheckOut">
+   <children>
+      <TextField fx:id="name" layoutX="37.0" layoutY="104.0" prefHeight="35.0" prefWidth="339.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="phone" layoutX="37.0" layoutY="184.0" prefHeight="35.0" prefWidth="339.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Button layoutX="80.0" layoutY="-9.0" mnemonicParsing="false" onAction="#eShop" prefHeight="45.0" prefWidth="240.0" style="-fx-background-color: transparent;" text="eShop" textFill="WHITE">
+         <font>
+            <Font name="Bodoni MT Bold" size="45.0" />
+         </font>
+      </Button>
+      <Button layoutX="177.0" layoutY="246.0" mnemonicParsing="false" onAction="#CheckBtn" text="Confirm" textFill="#7b17c3">
+         <font>
+            <Font name="Bodoni MT Bold" size="18.0" />
+         </font>
+      </Button>
+      <Text fill="WHITE" layoutX="37.0" layoutY="92.0" strokeType="OUTSIDE" strokeWidth="0.0" text="*Enter your address" wrappingWidth="133.47006225585938">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="37.0" layoutY="170.0" strokeType="OUTSIDE" strokeWidth="0.0" text="*Enter your phone number" wrappingWidth="182.80337524414062">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

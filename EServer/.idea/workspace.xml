@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b04a2d9-57ba-4650-8e49-b46899e04ee2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sGgkdJehFk65UrGwE0zjFWeRFz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ECOPy/EServer_Copy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\EServer\src\ChatClient" />
+      <recent name="F:\Projects\EServer\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainServer">
+    <configuration type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MainServer" />
+      <module name="EServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChatClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatClient.Main" />
+      <module name="EServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChatClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ChatClient.Main" />
+      <module name="EServer" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MainServer" />
+      <module name="EServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainServer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b04a2d9-57ba-4650-8e49-b46899e04ee2" name="Default Changelist" comment="" />
+      <created>1620504484305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620504484305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2218" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620536187795">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state x="2218" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1620536187795" />
+    <state x="2169" y="313" key="#com.intellij.ide.util.MemberChooser" timestamp="1621962663713">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state x="2169" y="313" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1621962663713" />
+    <state x="2493" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620535237167">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state x="2493" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1620535237167" />
+    <state x="2199" y="488" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622879141254">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state x="2199" y="488" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622879141254" />
+    <state x="3023" y="227" key="FileChooserDialogImpl" timestamp="1622880368815">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state x="3023" y="227" key="FileChooserDialogImpl/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622880368815" />
+    <state x="735" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1621329012269" />
+    <state width="601" height="181" key="GridCell.Tab.0.bottom" timestamp="1622880372801">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873621" />
+    <state width="601" height="181" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622880372801" />
+    <state width="601" height="181" key="GridCell.Tab.0.center" timestamp="1622880372801">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.0.center/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873621" />
+    <state width="601" height="181" key="GridCell.Tab.0.center/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622880372801" />
+    <state width="601" height="181" key="GridCell.Tab.0.left" timestamp="1622880372801">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.0.left/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873621" />
+    <state width="601" height="181" key="GridCell.Tab.0.left/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622880372801" />
+    <state width="601" height="181" key="GridCell.Tab.0.right" timestamp="1622880372801">
+      <screen x="1920" y="75" width="1920" height="1050" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.0.right/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873621" />
+    <state width="601" height="181" key="GridCell.Tab.0.right/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622880372801" />
+    <state width="987" height="348" key="GridCell.Tab.1.bottom" timestamp="1622356873622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873622" />
+    <state width="987" height="348" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622349178815" />
+    <state width="987" height="348" key="GridCell.Tab.1.center" timestamp="1622356873622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.1.center/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873622" />
+    <state width="987" height="348" key="GridCell.Tab.1.center/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622349178815" />
+    <state width="987" height="348" key="GridCell.Tab.1.left" timestamp="1622356873621">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.1.left/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873621" />
+    <state width="987" height="348" key="GridCell.Tab.1.left/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622349178814" />
+    <state width="987" height="348" key="GridCell.Tab.1.right" timestamp="1622356873622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="987" height="348" key="GridCell.Tab.1.right/0.0.1280.689/1920.75.1920.1050@0.0.1280.689" timestamp="1622356873622" />
+    <state width="987" height="348" key="GridCell.Tab.1.right/0.0.1280.689/1920.75.1920.1050@1920.75.1920.1050" timestamp="1622349178815" />
+  </component>
+</project>

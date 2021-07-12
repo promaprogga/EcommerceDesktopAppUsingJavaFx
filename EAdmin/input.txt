@@ -1,0 +1,167 @@
+Order from:
+Address: j block, Baridhara
+Phone No. 01763788700
+Items:
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Berries									1							40 Tk
+  Juice									1							50 Tk
+  Water									1							20 Tk
+  Coffee									1							35 Tk
+  Emma									1							1040 Tk
+  Sybil									1							1000 Tk
+  Adrift									1							2000 Tk
+  Scoop									1							1000 Tk
+  Murphy									1							1200 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: gulshan
+Phone No. 01945733257
+Items:
+  Apples									1							50 Tk
+  Water									1							20 Tk
+  Berries									1							40 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: dhaka
+Phone No. 019274674565
+Items:
+  Emma									1							1040 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+  Adrift									1							2000 Tk
+  Murphy									1							1200 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: gulshan
+Phone No. 01532983247
+Items:
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Water									2							20 Tk
+  Emma									2							1040 Tk
+  Scoop									1							1000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: Rajhshahi
+Phone No. 01672326477
+Items:
+  Apples									2							50 Tk
+  Water									2							20 Tk
+  Berries									2							40 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: badda
+Phone No. 01328443643
+Items:
+  Apples									3							50 Tk
+  Water									2							20 Tk
+  Emma									2							1040 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: badda
+Phone No. 0142743254
+Items:
+  Apples									2							50 Tk
+  Pepper									2							120 Tk
+  Berries									1							40 Tk
+--------------------------------------------------------------------------------------------------------
+Order from:
+Address: baridhara
+Phone No. 0162675345
+Items:
+  Apples									3							50 Tk
+  Water									1							20 Tk
+  Coffee									1							35 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: baridhara
+Phone No. 0196733674
+Items:
+  Coffee									1							35 Tk
+  Juice									2							50 Tk
+  Adrift									1							2000 Tk
+  Murphy									2							1200 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: Baridhara
+Phone No. 01765276544
+Items:
+  Apples									2							50 Tk
+  Water									2							20 Tk
+  Berries									1							40 Tk
+  Emma									2							1040 Tk
+  Scoop									1							1000 Tk
+  Sybil									1							1000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: Gulshan
+Phone No. 01735653233
+Items:
+  Apples									2							50 Tk
+  Water									1							20 Tk
+  Berries									1							40 Tk
+  Emma									1							1040 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: baridhara
+Phone No. 01743642674
+Items:
+  Apples									2							50 Tk
+  Water									1							20 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+  Adrift									1							2000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: gulshan
+Phone No. 0187367268
+Items:
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Water									1							20 Tk
+  Emma									2							1040 Tk
+  Scoop									1							1000 Tk
+  Sybil									1							1000 Tk
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: b
+Phone No. 01173131753
+Items:
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Berries									1							40 Tk
+  Emma									1							1040 Tk
+  Scoop									1							1000 Tk
+
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: b
+Phone No. 018675675475
+Items:
+  Apples									2							50 Tk
+  Pepper									2							120 Tk
+  Emma									1							1040 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+null
+null
+--------------------------------------------------------------------------------------------------------
+Order from: 
+Address: p
+Phone No. 01873765451
+Items:
+  Apples									2							50 Tk
+  Pepper									1							120 Tk
+  Apples									1							50 Tk
+  Pepper									1							120 Tk
+  Water									1							20 Tk
+  Sybil									1							1000 Tk
+  Scoop									1							1000 Tk
+null
